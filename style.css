@@ -1,0 +1,9 @@
+svg {
+    width: 1200px;
+    height: 1000px;
+    border: #000000 double 10px;
+    background-color: #318CF2;
+    display: block;
+    margin: 0 auto;
+
+}
